@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\repoOld\Repository\1c7d68b0-gr11-repo\Project\PacMan\PacMan\Main.cpp(62,14): warning C4101: "ch": lokalna zmienna, do której nie istnieje odwołanie
+  PacMan.vcxproj -> C:\repoOld\Repository\1c7d68b0-gr11-repo\Project\PacMan\Debug\PacMan.exe
